@@ -1,5 +1,5 @@
 # PharmacyManagement
-# Case-Study_PersonalFinanceApp
+
 
 This Case Study is on Angular based Pharmacy Management Application to help them in pharmaceutical products transaction.
 
