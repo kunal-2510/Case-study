@@ -1,4 +1,28 @@
 # PharmacyManagement
+# Case-Study_PersonalFinanceApp
+
+This Case Study is on Angular based Pharmacy Management Application to help them in pharmaceutical products transaction.
+
+# Modules Included
+Login/Signup page
+Dashboard
+Product Management
+
+
+# Features Added
+Input Validations
+Lazy Loading
+Auth Guard
+CRUD operations applied
+
+# Installation required
+Bootstrap
+Angular material
+
+# Progress
+This is an Ongoing case Study , Currently only the frontend part is included and In future will be giving it a backend with Nodejs and MongoDB
+
+# Angular Documentation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
 
