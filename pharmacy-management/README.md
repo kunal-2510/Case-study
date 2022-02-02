@@ -4,20 +4,20 @@
 This Case Study is on Angular based Pharmacy Management Application to help them in pharmaceutical products transaction.
 
 # Modules Included
-Login/Signup page
-Dashboard
-Product Management
+1. Login/Signup page
+2. Dashboard
+3. Product Management
 
 
 # Features Added
-Input Validations
-Lazy Loading
-Auth Guard
-CRUD operations applied
+1. Input Validations
+2. Lazy Loading
+3. Auth Guard
+4. CRUD operations applied
 
 # Installation required
-Bootstrap
-Angular material
+1. Bootstrap
+2. Angular material
 
 # Progress
 This is an Ongoing case Study , Currently only the frontend part is included and In future will be giving it a backend with Nodejs and MongoDB
