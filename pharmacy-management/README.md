@@ -14,13 +14,26 @@ This Case Study is on Angular based Pharmacy Management Application to help them
 2. Lazy Loading
 3. Auth Guard
 4. CRUD operations applied
+5. JWT Authorization
+6. Reactive Forms
+7. Custom Components
+8. Hashing
+9. Sorting,Pagination,Filter
+
 
 # Installation required
 1. Bootstrap
 2. Angular material
+3. Express Js
+4. Node Js
 
-# Progress
-This is an Ongoing case Study , Currently only the frontend part is included and In future will be giving it a backend with Nodejs and MongoDB
+# Command 
+1. ng serve
+2. node app.js
+
+# Admin Login
+1. Run http://localhost:4200/login
+2. Enter admin email and password and click login
 
 # Angular Documentation
 
